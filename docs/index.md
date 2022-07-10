@@ -1,0 +1,13 @@
+# 上海地铁Wiki
+
+## 敬告读者
+本wiki暂未编写完毕，数据不完全，且本wiki与上海申通地铁集团有限公司并无关系。
+
+## 提示
+* 乘客乘坐轨道交通，须体温正常（＜37.3℃），随申码为绿码，持72小时内核酸检测阴性证明或者24小时内核酸采样证明，进站扫描“场所码”。
+* 目前，上海地铁11号线上海赛车场站暂停运营
+
+## 一些可能有用的链接
+* [上海地铁官网](http://www.shmetro.com/)([服务专页](http://service.shmetro.com/))
+* [上海地铁吧](https://tieba.baidu.com/f?kw=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81&fr=index)
+* [上海轨道交通资料下载站(by hg-坂柳)](https://incimathcal.gitee.io/shmetrodl/#)

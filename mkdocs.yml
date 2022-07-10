@@ -1,0 +1,7 @@
+site_name: 上海地铁Wiki
+theme:
+  name: material
+  language: zh
+  logo: logo.png
+  features:
+  - navigation.top
