@@ -19,7 +19,7 @@ theme:
     repo: fontawesome/brands/github
 plugins:
   - search
-copyright: 本wiki暂未编写完毕，数据不完全，且本wiki与上海申通地铁集团有限公司、上海浦东现代有轨交通有限公司、上海浦东新区杨高公共交通有限公司并无关系。
+copyright: 本wiki暂未编写完毕，数据不完全，且本wiki与上海申通地铁集团有限公司、上海浦东现代有轨交通有限公司、上海浦东新区杨高公共交通有限公司并无关系。<br/>最后更新于2022/7/21
 repo_url: https://github.com/BSOD-qian/shmetrowiki
 repo_name: BSOD-qian/shmetrowiki
 nav:
