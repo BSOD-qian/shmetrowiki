@@ -22,3 +22,21 @@ plugins:
 copyright: 本wiki暂未编写完毕，数据不完全，且本wiki与上海申通地铁集团有限公司、上海浦东现代有轨交通有限公司、上海浦东新区杨高公共交通有限公司并无关系。
 repo_url: https://github.com/BSOD-qian/shmetrowiki
 repo_name: BSOD-qian/shmetrowiki
+nav:
+  - '首页': 'index.md'
+  - '地铁系统':
+    - '车辆设施': 'metro/train.md'
+    - '分线路介绍':
+      - '上海地铁1号线': 'metro/line/1.md'
+      - '上海地铁2号线': 'metro/line/2.md'
+      - '上海地铁3号线': 'metro/line/3.md'
+      - '上海地铁4号线': 'metro/line/4.md'
+      - '上海地铁5号线': 'metro/line/5.md'
+      - '上海地铁6号线': 'metro/line/6.md'
+      - '上海地铁7号线': 'metro/line/7.md'
+      - '上海地铁8号线': 'metro/line/8.md'
+      - '上海地铁9号线': 'metro/line/9.md'
+      - '上海地铁10号线': 'metro/line/10.md'
+  - '有轨电车系统':
+    - '张江有轨电车':
+      - '张江有轨电车1路': 'tram/zj/1.md'
